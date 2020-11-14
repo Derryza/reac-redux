@@ -2,115 +2,80 @@
     "users": [
         {
             "id": 1,
-            "nama": "Afif",
-            "alamat": "Sumedang",
+            "nama": "afif",
+            "alamat": "Pekalongan",
             "umur": 24,
-            "nohp": "085726567333"
+            "nohp": "0857412312312"
         },
         {
             "id": 2,
-            "nama": "Mimih",
-            "alamat": "Bandung",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nama": "bagus",
+            "alamat": "Jakarta",
+            "umur": 22,
+            "nohp": "0838412312312"
         },
         {
             "id": 3,
-            "nama": "Derry",
-            "alamat": "Sumedang",
-            "umur": 24,
-            "nohp": "085726567333"
+            "nama": "hendro",
+            "alamat": "Ngawi",
+            "umur": 23,
+            "nohp": "08574195842312"
         },
         {
             "id": 4,
-            "nama": "Angga",
-            "alamat": "Cirebon",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nama": "hadi",
+            "alamat": "Palu",
+            "umur": 21,
+            "nohp": "08574195842312"
         },
         {
             "id": 5,
-            "nama": "Lilis",
-            "alamat": "Bandung",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nama": "esti",
+            "alamat": "Lampung",
+            "umur": 24,
+            "nohp": "08574195842312"
         },
         {
             "id": 6,
-            "nama": "Herdi",
-            "alamat": "Bandung",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nama": "yayan",
+            "alamat": "Groboga",
+            "umur": 21,
+            "nohp": "08574295842312"
         },
         {
             "id": 7,
-            "nama": "Bayu",
-            "alamat": "Garut",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nama": "raisa",
+            "alamat": "Malang",
+            "umur": 23,
+            "nohp": "08574195842312"
         },
         {
             "id": 8,
-            "nama": "Hisam",
+            "nama": "gatra",
             "alamat": "Solo",
-            "umur": 25,
-            "nohp": "085726567331"
+            "umur": 23,
+            "nohp": "08574195842312"
         },
         {
             "id": 9,
-            "nama": "Kamal",
-            "alamat": "Bandung",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nama": "bambang",
+            "alamat": "Salatiga",
+            "umur": 23,
+            "nohp": "08574195842312"
         },
         {
             "id": 10,
-            "nama": "Irwan",
-            "alamat": "Bandung",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nama": "Budi",
+            "alamat": "Kediri",
+            "umur": 27,
+            "nohp": "08574195842312"
         },
         {
             "id": 11,
-            "nama": "Gerry",
-            "alamat": "Jakarta",
+            "nama": "dedi",
+            "alamat": "Aceh",
             "umur": 25,
-            "nohp": "085726567331"
-        },
-        {
-            "id": 12,
-            "nama": "Amal",
-            "alamat": "Solo",
-            "umur": 25,
-            "nohp": "085726567331"
-        },
-        {
-            "id": 13,
-            "nama": "Iqbal",
-            "alamat": "Cianjur",
-            "umur": 25,
-            "nohp": "085726567331"
-        },
-        {
-            "id": 14,
-            "nama": "Deni",
-            "alamat": "Lombok",
-            "umur": 25,
-            "nohp": "085726567331"
-        },
-        {
-            "id": 15,
-            "nama": "Adi",
-            "alamat": "Subang",
-            "umur": 25,
-            "nohp": "085726567331"
-        },
-        {
-            "id": 16,
-            "nama": "Apri",
-            "alamat": "Solo",
-            "umur": 25,
-            "nohp": "085726567331"
+            "nohp": "08574195842312"
         }
     ]
 }
