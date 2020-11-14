@@ -1,0 +1,116 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Afif",
+            "alamat": "Sumedang",
+            "umur": 24,
+            "nohp": "085726567333"
+        },
+        {
+            "id": 2,
+            "nama": "Mimih",
+            "alamat": "Bandung",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 3,
+            "nama": "Derry",
+            "alamat": "Sumedang",
+            "umur": 24,
+            "nohp": "085726567333"
+        },
+        {
+            "id": 4,
+            "nama": "Angga",
+            "alamat": "Cirebon",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 5,
+            "nama": "Lilis",
+            "alamat": "Bandung",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 6,
+            "nama": "Herdi",
+            "alamat": "Bandung",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 7,
+            "nama": "Bayu",
+            "alamat": "Garut",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 8,
+            "nama": "Hisam",
+            "alamat": "Solo",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 9,
+            "nama": "Kamal",
+            "alamat": "Bandung",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 10,
+            "nama": "Irwan",
+            "alamat": "Bandung",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 11,
+            "nama": "Gerry",
+            "alamat": "Jakarta",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 12,
+            "nama": "Amal",
+            "alamat": "Solo",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 13,
+            "nama": "Iqbal",
+            "alamat": "Cianjur",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 14,
+            "nama": "Deni",
+            "alamat": "Lombok",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 15,
+            "nama": "Adi",
+            "alamat": "Subang",
+            "umur": 25,
+            "nohp": "085726567331"
+        },
+        {
+            "id": 16,
+            "nama": "Apri",
+            "alamat": "Solo",
+            "umur": 25,
+            "nohp": "085726567331"
+        }
+    ]
+}
